@@ -43,7 +43,7 @@ const App = () => {
             <p>{weather.weather[0].description}</p>
           </div>
           <div>
-            <p>Developed by Utkarsh Misra</p>
+            <p style={{ textAlign: "center" }}>Developed by Utkarsh Misra</p>
           </div>
         </div>
       )}
