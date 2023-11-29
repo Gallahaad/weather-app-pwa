@@ -42,6 +42,9 @@ const App = () => {
             />
             <p>{weather.weather[0].description}</p>
           </div>
+          <div>
+            <p>Developed by Utkarsh Misra</p>
+          </div>
         </div>
       )}
     </div>
